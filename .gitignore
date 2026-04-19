@@ -1,0 +1,37 @@
+# ESP32 / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+lib/
+include/
+
+# Arduino
+*.elf
+*.hex
+*.bin
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Node.js
+node_modules/
+dist/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
