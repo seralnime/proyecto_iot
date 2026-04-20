@@ -454,7 +454,7 @@ Participantes: [Nombres del equipo]
 | Daniel Felipe Forero| Tecnico | DanielForero14 |
 | Juan David Orozco | Arquitecto | David OrozcoJ |
 | Joao Alexandre Muño Obando | desarrollador | JoaoALT |
-| Sergio Gabriel Nieto Mendez | Desarrollador | [@usuario] |
+| Sergio Gabriel Nieto Mendez | Desarrollador | seralnime |
 
 ---
 
