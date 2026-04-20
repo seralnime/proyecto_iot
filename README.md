@@ -451,9 +451,10 @@ Participantes: [Nombres del equipo]
 
 | Nombre | Rol | GitHub |
 |---|---|---|
-| [Nombre 1] | [Rol] | [@usuario] |
-| [Nombre 2] | [Rol] | [@usuario] |
-| [Nombre 3] | [Rol] | [@usuario] |
+| Daniel Felipe Forero| Tecnico | DanielForero14 |
+| Juan David Orozco | Arquitecto | David OrozcoJ |
+| Joao Alexandre Muño Obando | desarrollador | JoaoALT |
+| Sergio Gabriel Nieto Mendez | Desarrollador | [@usuario] |
 
 ---
 
