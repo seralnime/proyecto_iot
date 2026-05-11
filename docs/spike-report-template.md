@@ -5,7 +5,7 @@
 | Campo | Valor |
 |---|---|
 | **Fecha de ejecución** | ___/___/2026 |
-| **Participantes** | [Nombres del equipo] |
+| **Participantes** | Daniel Felipe Forero, Juan David Orozco, Sergio Gabriel Nieto, Joao Alexandre Muñoz |
 | **Duración** | Sprint 1 (Semana 1) |
 | **Objetivo** | Validar la lectura de sensores flex en ESP32 con Wi-Fi activo simultáneamente |
 
